@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # <img src="./img/mona-whisper.gif" width="40"> NUMMUNOIL :fuelpump:
 
 <p align="center">
@@ -13,3 +14,10 @@
 =======
 ![coming soon](https://github.com/nummunoil/nummunoil/blob/dev/img/mona-loading-dimmed.gif?raw=true)
 >>>>>>> 24fe187 (update v1)
+=======
+# <img src="./img/mona-whisper.gif" width="24"> NUMMUNOIL :fuelpump:
+
+<p align="center">
+![coming soon](https://github.com/nummunoil/nummunoil/blob/dev/img/mona-loading-dimmed.gif?raw=true)
+</p>
+>>>>>>> ee35e53 (update v1)
