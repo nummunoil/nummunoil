@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 # <img src="./img/mona-whisper.gif" width="48"> NUMMUNOIL :fuelpump:
+=======
+# NUMMUNOIL :fuelpump:
+>>>>>>> 70d1239 (update v2)
 
 <p align="center">
-  <img src="https://github.com/nummunoil/nummunoil/blob/dev/img/mona-loading-dimmed.gif">
+  <img src="./img/mona-loading-dimmed.gif">
+  Loading...
 </p>
