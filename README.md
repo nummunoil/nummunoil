@@ -7,5 +7,5 @@
 <p align="center">
   <img src="./img/mona-loading-dimmed.gif">
   <br />
-  Loading...
+  Coming Soon!
 </p>
