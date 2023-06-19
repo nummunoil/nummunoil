@@ -5,5 +5,5 @@
 <p align="center">
   <img src="./img/mona-loading-dimmed.gif">
   <br />
-  Coming Soon!
+  hi!! I'm Oil
 </p>
